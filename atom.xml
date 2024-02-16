@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-14T16:52:27.434Z</updated>
+  <updated>2024-02-16T14:15:35.674Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片test</title>
+    <link href="http://example.com/2024/02/16/%E5%9B%BE%E7%89%87test/"/>
+    <id>http://example.com/2024/02/16/%E5%9B%BE%E7%89%87test/</id>
+    <published>2024-02-16T13:52:28.426Z</published>
+    <updated>2024-02-16T14:15:35.674Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="优质图片"><a href="#优质图片" class="headerlink" title="优质图片:"></a>优质图片:</h2><hr><p><img src="https://icdn.binmt.cc/2402/65cf66652d15d.png" alt="折木妻子"></p><hr><p><img src="https://icdn.binmt.cc/2402/65cf6820b38d3.png" alt="虎年大吉"></p><hr><p><img src="https://icdn.binmt.cc/2402/65cf685eec17c.png" alt="蕾姆"></p><hr><p><img src="https://icdn.binmt.cc/2402/65cf6d6a44ae6.png" alt="神奇啊呦"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;优质图片&quot;&gt;&lt;a href=&quot;#优质图片&quot; class=&quot;headerlink&quot; title=&quot;优质图片:&quot;&gt;&lt;/a&gt;优质图片:&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://icdn.binmt.cc/2402/65cf66652d15d.png&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>岳阳楼记</title>
@@ -57,19 +78,18 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/02/14/hello-world/"/>
-    <id>http://example.com/2024/02/14/hello-world/</id>
+    <title>凌云之志</title>
+    <link href="http://example.com/2024/02/14/%E5%87%8C%E4%BA%91%E4%B9%8B%E5%BF%97/"/>
+    <id>http://example.com/2024/02/14/%E5%87%8C%E4%BA%91%E4%B9%8B%E5%BF%97/</id>
     <published>2024-02-14T12:35:32.075Z</published>
-    <updated>2024-02-14T16:23:10.334Z</updated>
+    <updated>2024-02-16T14:10:48.841Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to 爱喝养乐多的 Blog</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="欢迎来到爱喝养乐多的博客"><a href="#欢迎来到爱喝养乐多的博客" class="headerlink" title="欢迎来到爱喝养乐多的博客"></a>欢迎来到爱喝养乐多的博客</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to 爱喝养乐多的 Blog&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;欢迎来到爱喝养乐多的博客&quot;&gt;&lt;a href=&quot;#欢迎来到爱喝养乐多的博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎来到爱喝养乐多的博客&quot;&gt;&lt;/a&gt;欢迎来到爱喝养乐多的博客&lt;/h2&gt;</summary>
       
     
     
